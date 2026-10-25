@@ -86,9 +86,11 @@ This project uses the **Brazilian E-Commerce Public Dataset by Olist**, availabl
 
 The dataset contains information about e-commerce orders, customers, products, sellers, payments, reviews, and delivery dates.
 
-**Dataset source:** Brazilian E-Commerce Public Dataset by Olist on Kaggle.
+**Dataset source:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
-**License:** CC BY-NC-SA 4.0. Please refer to the original dataset page and license terms before redistributing the data.
+**Dataset creators:** Olist and the listed collaborators.
+
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Please review the license terms before redistributing the dataset or derivative materials.
 
 ## Limitations
 
